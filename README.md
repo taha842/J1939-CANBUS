@@ -9,3 +9,7 @@ J1939 Supported Engines Monitoring
 7.Exhaust Temp
 8.Engine Oil Pressure 
 
+
+
+Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO
+
